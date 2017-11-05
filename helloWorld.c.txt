@@ -2,4 +2,6 @@ void main() {
 	#include <stdio.h>
 	
 	printf("hello world!\n");
+	
+	// Just adding a comment
 }
